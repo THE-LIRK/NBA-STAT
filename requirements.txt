@@ -1,6 +1,5 @@
 streamlit
 pandas
 matplotlib
-base64
 numpy
 plotly_express
